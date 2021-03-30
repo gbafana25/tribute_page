@@ -19,18 +19,20 @@ html {
 }
 
 .early_life {
-	color: #00ff20;
-	font-family: monospace;
+	color: #3fa2f8;
+	font-family: "Courier New";
 	font-style: oblique;
-	font-size: 15px;
+	font-weight: 400;
+	font-size: 18px;
 
 }
 
 .founding_apple {
-	color: white;
-	text-align: right;
-	margin-right: 200px;
-	margin-top: -100px;
+	color: #06f311;
+	font-family: "Courier New";
+	font-style: oblique;
+	font-weight: 900;
+	font-size: 20px;
 
 }
 
