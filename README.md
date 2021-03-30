@@ -5,4 +5,4 @@
 - Apple logo gif: https://dribbble.com/shots/3063795-Apple-Logo-Animation
 
 ## Page Preview
-![](img/page.gif)
+![](https://raw.githubusercontent.com/gbafana25/tribute_page/main/img/page.gif)
