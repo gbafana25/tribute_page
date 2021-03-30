@@ -9,13 +9,14 @@
 	font-family: "Courier New";
 	font-style: oblique;
 	color: white;
-	text-align: center;
+	text-align: right;
 	font-size: 100%;
+	padding-right: 2%;
 
 }
 
 html {
-	background: black;
+	background: url(img/appleanimation.gif) center no-repeat black;
 }
 
 .early_life {
@@ -23,7 +24,7 @@ html {
 	font-family: "Courier New";
 	font-style: oblique;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 16px;
 
 }
 
@@ -32,12 +33,12 @@ html {
 	font-family: "Courier New";
 	font-style: oblique;
 	font-weight: 900;
-	font-size: 20px;
+	font-size: 18px;
 
 }
 
 img {
 	margin-left: auto;
-	margin-right: auto;
 	display: block;
+	padding-right: 3%;
 }
